@@ -2,7 +2,7 @@
 
 ##### Links
 - GitHub: https://github.com/SWIRTH9092/activitytracker_backend
-- Render: 
+- Render: https://sw-activitytracker.onrender.com/activity/
 
 ##### Dependencies
 - Django
